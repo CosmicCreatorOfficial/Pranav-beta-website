@@ -2,4 +2,10 @@ body{
     background-image: url('awesome-background.gif');
     background-repeat:no-repeat;
     background-size: cover;
+    font-family: 'Rubik Iso', cursive;
 }
+
+h1{
+    justify-content: center;
+}
+
