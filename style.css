@@ -1,1 +1,4 @@
-
+body{
+    background-image: url('awesome-background.gif');
+    background-repeat:no-repeat;
+}
